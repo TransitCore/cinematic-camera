@@ -1,0 +1,11 @@
+{
+  "id": "com.community.cinematic-camera",
+  "name": "Cinematic Camera",
+  "description": "Record keyframe-based cinematic flythroughs of your city.",
+  "version": "1.0.0",
+  "author": { "name": "TransitCore" },
+  "main": "index.js",
+  "dependencies": {
+    "subway-builder": ">=1.1.0"
+  }
+}
